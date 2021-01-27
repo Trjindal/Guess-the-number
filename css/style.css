@@ -1,0 +1,47 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #222;
+  font-family: "Press Start 2P", sans-serif;
+  color: #eee;
+  /* overflow-x: hidden; */
+}
+.header {
+  border-bottom: 7px solid #eee;
+  /* height: 35vh; */
+}
+.header .btn .again {
+  /* letter-spacing: 0.5rem; */
+  background-color: #eee;
+  text-align: center;
+}
+
+/* .header h1 {
+  font-size: 4rem;
+} */
+.guess {
+  background-color: #222;
+  font-size: 90px;
+  text-align: center;
+  border: solid 6px white;
+}
+.question {
+  /* font-size: 90px; */
+  background-color: #eee;
+  color: #222;
+  width: 10rem;
+  margin-left: 45%;
+  position: relative;
+  top: -50px;
+}
+.number {
+  font-size: 90px;
+}
+/* .check {
+  position: relative;
+  top: 100px;
+  left: -250px;
+} */
